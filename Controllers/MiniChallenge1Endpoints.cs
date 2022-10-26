@@ -1,3 +1,10 @@
+//N. Harrison Wilkins
+//10-26-2022
+//Mini Challenge #1 - ENDPOINTS
+//THIS CONTROLLER WILL CONTROL ALL ENDPOINTS WITHIN THE PROJECT,  WILL WORK WITH WEB API'S
+//PEER REVIEW BY : 
+
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace endPointsWontWork.Controllers;
@@ -19,10 +26,10 @@ public class MiniChallenge1Controller : ControllerBase
         return 400 + 20;
     }
         [HttpGet]
-    [Route("MiniChallenge3")]
+    [Route("MiniChallenge3/{name}/{time}")]
     public string AskingQuestions(string name = "Harrison", string time = "6AM")
     {
-        return $"HELLO {name}! {time} sure is early!";
+        return $"HELLO {name}! {time} SURE IS EARLY!";
     }
         [HttpGet]
     [Route("MiniChallenge4")]
@@ -30,14 +37,14 @@ public class MiniChallenge1Controller : ControllerBase
     {
         if(firstNumber > secondNumber){
 
-        return $"{firstNumber} is greater than {secondNumber}";
+        return $"{firstNumber} is GREATER than {secondNumber}";
         }
         if(firstNumber < secondNumber){
 
-        return $"{firstNumber} is less than {secondNumber}";
+        return $"{firstNumber} is LESS than {secondNumber}";
         }else{
 
-        return $"{firstNumber} is equal to {secondNumber}";
+        return $"{firstNumber} is EQUAL to {secondNumber}";
         }
         
     }
@@ -69,7 +76,7 @@ public class MiniChallenge1Controller : ControllerBase
         string [] response = {"YES", "NO", "MAYBE SO"};
         Random rnd = new Random();
         int index = rnd.Next();
-        return "THIS PROGRAM SHOULD RETURN A RANDOM RESPONSE EVERYTIME USER RUNS PROGRAM! \n {response[index]}";
+        return "THIS PROGRAM SHOULD RETURN A RANDOM RESPONSE EVERYTIME USER RUNS PROGRAM! \n Output : Yes! \n Output : No! \n Output : Maybe So!";
     }
             [HttpGet]
     [Route("MiniChallenge9/{option}")]
@@ -84,11 +91,10 @@ public class MiniChallenge1Controller : ControllerBase
         int mexicanFoodIndex  = rnd.Next(chineseFoodArray.Length);
 
 
-        if(option == "chineseFoodArray") return chineseFoodArray[chineseFoodIndex];
-        if(option == "fastFoodArray") return fastFoodArray[fastFoodIndex];
-        if(option == "mexicanFoodArray") return mexicanFoodArray[mexicanFoodIndex];
+        if(option == "chinesefood") return chineseFoodArray[chineseFoodIndex];
+        if(option == "fastfood") return fastFoodArray[fastFoodIndex];
+        if(option == "mexicanfood") return mexicanFoodArray[mexicanFoodIndex];
 
-
-        return " \n THIS PROGRAM WILL WILL TAKE THE USER'S INPUT AND REVERSE IT! \n Ex : Input : HELLO HUMAN! \n Output : !NAMUH OLLEH";
+return "THIS PROGRAM WILL RETURN A RANDOM RESTRAUNT, THE USER WILL ALSO BE ABLE TO CHOOSE BETWEEN THREE DIFFERENT CATEGORIES, ALL OF WHICH CONTAIN THEIR OWN INIVIDUAL OPTIONS!!!";
     }
 }

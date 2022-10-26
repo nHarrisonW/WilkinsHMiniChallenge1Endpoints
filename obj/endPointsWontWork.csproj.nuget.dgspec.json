@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mewil\\OneDrive\\Desktop\\Coding Master\\levelOne\\Homework\\endPointsWontWork\\endPointsWontWork.csproj": {}
+    "/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/endPointsWontWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mewil\\OneDrive\\Desktop\\Coding Master\\levelOne\\Homework\\endPointsWontWork\\endPointsWontWork.csproj": {
+    "/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/endPointsWontWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mewil\\OneDrive\\Desktop\\Coding Master\\levelOne\\Homework\\endPointsWontWork\\endPointsWontWork.csproj",
+        "projectUniqueName": "/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/endPointsWontWork.csproj",
         "projectName": "endPointsWontWork",
-        "projectPath": "C:\\Users\\mewil\\OneDrive\\Desktop\\Coding Master\\levelOne\\Homework\\endPointsWontWork\\endPointsWontWork.csproj",
-        "packagesPath": "C:\\Users\\mewil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mewil\\OneDrive\\Desktop\\Coding Master\\levelOne\\Homework\\endPointsWontWork\\obj\\",
+        "projectPath": "/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/endPointsWontWork.csproj",
+        "packagesPath": "/Users/pookiest0re/.nuget/packages/",
+        "outputPath": "/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mewil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/pookiest0re/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

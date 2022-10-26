@@ -1,27 +1,54 @@
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\appsettings.json
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\endPointsWontWork.exe
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\endPointsWontWork.deps.json
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\endPointsWontWork.runtimeconfig.json
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\endPointsWontWork.dll
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\endPointsWontWork.pdb
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.csproj.AssemblyReference.cache
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.AssemblyInfoInputs.cache
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.AssemblyInfo.cs
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.csproj.CoreCompileInputs.cache
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\scopedcss\bundle\endPointsWontWork.styles.css
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.csproj.CopyComplete
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.dll
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\refint\endPointsWontWork.dll
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.pdb
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\endPointsWontWork.genruntimeconfig.cache
-C:\Users\mewil\OneDrive\Desktop\Coding Master\levelOne\Homework\endPointsWontWork\obj\Debug\net6.0\ref\endPointsWontWork.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/appsettings.json
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/endPointsWontWork.exe
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/endPointsWontWork.deps.json
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/endPointsWontWork.runtimeconfig.json
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/endPointsWontWork.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/endPointsWontWork.pdb
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.csproj.AssemblyReference.cache
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.AssemblyInfoInputs.cache
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.AssemblyInfo.cs
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.csproj.CoreCompileInputs.cache
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/scopedcss/bundle/endPointsWontWork.styles.css
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.csproj.CopyComplete
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/refint/endPointsWontWork.dll
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.pdb
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/endPointsWontWork.genruntimeconfig.cache
+C:/Users/mewil/OneDrive/Desktop/Coding Master/levelOne/Homework/endPointsWontWork/obj/Debug/net6.0/ref/endPointsWontWork.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/appsettings.Development.json
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/appsettings.json
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/endPointsWontWork
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/endPointsWontWork.deps.json
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/endPointsWontWork.runtimeconfig.json
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/endPointsWontWork.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/endPointsWontWork.pdb
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.csproj.AssemblyReference.cache
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.AssemblyInfoInputs.cache
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.AssemblyInfo.cs
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.csproj.CoreCompileInputs.cache
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.MvcApplicationPartsAssemblyInfo.cs
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.MvcApplicationPartsAssemblyInfo.cache
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/staticwebassets.build.json
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/staticwebassets.development.json
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/scopedcss/bundle/endPointsWontWork.styles.css
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.csproj.CopyComplete
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/refint/endPointsWontWork.dll
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.pdb
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/endPointsWontWork.genruntimeconfig.cache
+/Users/pookiest0re/Desktop/CodestackMain/Homework/WilkinsHMiniChallenge1Endpoints/obj/Debug/net6.0/ref/endPointsWontWork.dll
